@@ -1,7 +1,10 @@
-# Hi there, I'm Kaustubh Anand 👋
+<div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kaustubh%20Anand&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Student%2
-  0%7C%20Aspiring%20Software%20Engineer%20%7C%20C%2B%2B%20%26%20DSA&descAlignY=55&descAlign=50)
+  # Hi there, I'm Kaustubh Anand 👋
+
+  ### 🎓 Student | 💻 Aspiring Software Engineer | 🚀 C++ & DSA Enthusiast
+
+  </div>
 
   ---
 
@@ -58,8 +61,10 @@
 
   ---
 
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+  <div align="center">
 
-  <p align="center">
-    <i>⭐️ Thanks for visiting my profile! Feel free to check out my repositories and connect with me!</i>
-  </p>
+  ### ⭐️ Thanks for visiting my profile!
+
+  **Feel free to check out my repositories and connect with me!**
+
+  </div>
